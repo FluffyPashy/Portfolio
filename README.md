@@ -2,8 +2,6 @@
 
 This repository is a compact collection of programming and game development projects from my studies, teaching, game jams, and personal work.
 
-## History
-
 I studied Games Programming and later went on to teach it, while also supporting Game Art and Software Engineering at SAE Institute Munich.
 
 Some of the projects in this portfolio were built solo, while others were created with friends, during game jams, or in free time.
