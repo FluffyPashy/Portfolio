@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Fluffy\\Desktop\\AVL_Tree\\AVL_Tree.csproj",
+      "projectUniqueName": "F:\\_Private\\Github\\Portfolio\\AVL_Tree\\AVL_Tree.csproj",
       "projectName": "AVL_Tree",
-      "projectPath": "C:\\Users\\Fluffy\\Desktop\\AVL_Tree\\AVL_Tree.csproj",
+      "projectPath": "F:\\_Private\\Github\\Portfolio\\AVL_Tree\\AVL_Tree.csproj",
       "packagesPath": "C:\\Users\\Fluffy\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Fluffy\\Desktop\\AVL_Tree\\obj\\",
+      "outputPath": "F:\\_Private\\Github\\Portfolio\\AVL_Tree\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
