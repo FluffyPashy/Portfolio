@@ -1,0 +1,97 @@
+# OS and editor noise
+.DS_Store
+Thumbs.db
+Desktop.ini
+*.swp
+*.swo
+*~
+
+# VS Code / Visual Studio
+.vscode/
+.vs/
+.vscode-test/
+*.code-workspace
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+*.rsuser
+*.VC.db
+*.VC.opendb
+*.opensdf
+*.sdf
+
+# Logs and temp files
+*.log
+*.tmp
+*.temp
+*.bak
+*.cache
+
+# Generic build outputs
+[Bb]in/
+[Oo]bj/
+[Dd]ebug/
+[Rr]elease/
+[Xx]64/
+[Xx]86/
+[Bb]uild/
+[Bb]uilds/
+dist/
+out/
+artifacts/
+
+# Compiled binaries and debug symbols
+*.obj
+*.o
+*.lo
+*.a
+*.la
+*.lib
+*.so
+*.dylib
+*.dll
+*.exe
+*.out
+*.app
+*.pdb
+*.ilk
+*.idb
+*.ipdb
+*.iobj
+*.pch
+
+# CMake and native tooling
+CMakeCache.txt
+CMakeFiles/
+cmake-build-*/
+compile_commands.json
+
+# .NET / NuGet
+TestResult*/
+*.nupkg
+*.snupkg
+
+# Unity generated folders
+[Ll]ibrary/
+[Tt]emp/
+[Ll]ogs/
+[Uu]ser[Ss]ettings/
+MemoryCaptures/
+Recordings/
+
+# Unreal Engine generated folders
+DerivedDataCache/
+Intermediate/
+Saved/
+Binaries/
+FileOpenOrder/
+Plugins/*/Intermediate/
+Plugins/*/Binaries/
+
+# Rider / JetBrains
+.idea/
+
+# Optional local env files
+.env
+.env.*
