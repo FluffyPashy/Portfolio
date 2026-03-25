@@ -12,4 +12,5 @@ Some of the projects in this portfolio were built solo, while others were create
 | --- | --- | --- |
 | [AVL Tree](./AVL_Tree) | C# / .NET 6, data structures | Interactive console implementation and visualization of a self-balancing binary search tree. |
 | [C++ VsCode Setup Tool](./C++%20VsCode%20SetUp%20Tool) | Windows batch / VS Code, MSVC tooling | Batch script that scaffolds a basic C/C++ workspace for Visual Studio Code and generates build and debug configuration for MSVC. |
+| [Unity Engine Tools](./Unity_EngineTools) | Unity 6, C#, editor tools, procedural generation | Collection of custom editor tools including procedural terrain generator, prefab painter, batch replacement, and folder structure generator. |
 
